@@ -7,4 +7,4 @@
 GIPHY_API_KEY=
 
 ## Запуск
-go run cmd/main.go
+go run main.go
